@@ -1,6 +1,7 @@
 # SIPModels
 
 Contians Colored Petri Nets (CPN) models discussed in the following paper:
+
 V. Gehlot and A. Hayrapetyan, “A Formalized and Validated Executable Model of the SIP-Based Presence Protocol for Mobile Applications,” Proc. 45th ACM Southeast Conference (ACMSE), pp. 185-190, March 2007.
 
 Abstract: Presence information is one of the key aspects of mobile computing. Depending on the type of presence information,
